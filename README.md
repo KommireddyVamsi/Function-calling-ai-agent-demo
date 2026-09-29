@@ -122,7 +122,7 @@ azure-domino-ai-agent-demo/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/azure-domino-ai-agent-demo.git
+git clone [https://github.com/yourusername/azure-domino-ai-agent-demo.git](https://github.com/KommireddyVamsi/Function-calling-ai-agent-demo.git)
 
 cd azure-domino-ai-agent-demo
 ```
@@ -130,7 +130,6 @@ cd azure-domino-ai-agent-demo
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt
 ```
 
 ---
@@ -158,7 +157,7 @@ BASE_URL = "https://your-resource.openai.azure.com/openai/v1/"
 ## Run Application
 
 ```bash
-python agent.py
+python AI-Functioncalling.py
 ```
 
 Example:
